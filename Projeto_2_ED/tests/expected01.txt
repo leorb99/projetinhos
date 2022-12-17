@@ -1,0 +1,7 @@
+=> restaurante aberto
+- nenhum pedido foi realizado
+- restaurante sem mesas
+- cardapio vazio
+- estoque vazio
+- historico vazio
+=> restaurante fechado

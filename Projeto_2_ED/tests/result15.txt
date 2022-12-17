@@ -1,0 +1,22 @@
+=> restaurante aberto
+sucesso >> pedido realizado: item big mac para mesa 1
+sucesso >> pedido realizado: item big tasty para mesa 1
+sucesso >> pedido realizado: item big mac para mesa 1
+sucesso >> pedido realizado: item cheddar mcmelt para mesa 1
+erro >> item macarrao nao existe no cardapio
+erro >> mesa 2 desocupada
+erro >> mesa 3 inexistente
+erro >> item mcflurry de ovo maltine nao existe no cardapio
+sucesso >> pedido realizado: item mc chicken para mesa 1
+sucesso >> pedido realizado: item tortinha de maca para mesa 1
+sucesso >> pedido realizado: item big mac para mesa 1
+erro >> ingredientes insuficientes para produzir o item batata frita
+erro >> item batat frita nao existe no cardapio
+1. mesa 1 pediu big mac
+2. mesa 1 pediu big tasty
+3. mesa 1 pediu big mac
+4. mesa 1 pediu cheddar mcmelt
+5. mesa 1 pediu mc chicken
+6. mesa 1 pediu tortinha de maca
+7. mesa 1 pediu big mac
+=> restaurante fechado

@@ -1,0 +1,11 @@
++ atualizar mesas
+m1.csv
++ atualizar cardapio
+c6.csv
++ atualizar estoque
+e6.csv
++ relatorio estoque
++ fazer pedido
+1, esfiha de carne
++ relatorio estoque
++ fechar restaurante

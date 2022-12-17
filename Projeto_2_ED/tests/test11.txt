@@ -1,0 +1,7 @@
++ atualizar mesas
+mesas-ru.csv
++ atualizar cardapio
+cardapio-feijoada.csv
++ fazer pedido
+50, feijoada
++ fechar restaurante

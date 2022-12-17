@@ -1,0 +1,4 @@
+=> restaurante aberto
+erro >> mesa 51 desocupada
+- historico vazio
+=> restaurante fechado

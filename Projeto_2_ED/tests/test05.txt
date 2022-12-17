@@ -1,0 +1,8 @@
++ relatorio mesas
++ atualizar mesas
+mesas-amarelinho.csv
++ relatorio mesas
++ atualizar mesas
+mesas-ru.csv
++ relatorio mesas
++ fechar restaurante

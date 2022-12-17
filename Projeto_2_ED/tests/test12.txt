@@ -1,0 +1,11 @@
++ atualizar mesas
+mesas-ru.csv
++ atualizar cardapio
+cardapio-feijoada.csv
++ atualizar estoque
+estoque-feijoada.csv
++ fazer pedido
+50, feijoada
++ relatorio pedidos
++ relatorio estoque
++ fechar restaurante

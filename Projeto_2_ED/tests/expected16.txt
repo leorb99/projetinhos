@@ -1,0 +1,103 @@
+=> restaurante aberto
+area: area_1
+- area sem mesas
+area: area_10
+- area sem mesas
+area: area_11
+- area sem mesas
+area: area_12
+- area sem mesas
+area: area_13
+- area sem mesas
+area: area_14
+- area sem mesas
+area: area_15
+- area sem mesas
+area: area_16
+- area sem mesas
+area: area_17
+- area sem mesas
+area: area_18
+- area sem mesas
+area: area_19
+- area sem mesas
+area: area_2
+- area sem mesas
+area: area_20
+- mesa: 102, status: ocupada
+area: area_3
+- area sem mesas
+area: area_4
+- area sem mesas
+area: area_5
+- area sem mesas
+area: area_6
+- area sem mesas
+area: area_7
+- area sem mesas
+area: area_8
+- area sem mesas
+area: area_9
+- area sem mesas
+area: coberto
+- area sem mesas
+area: descoberto
+- area sem mesas
+area: jardim
+- mesa: 13, status: livre
+area: lado_1
+- area sem mesas
+area: lado_2
+- area sem mesas
+area: lado_3
+- area sem mesas
+area: lado_4
+- area sem mesas
+area: lado_5
+- mesa: 5, status: ocupada
+area: lado_6
+- mesa: 6, status: ocupada
+area: reator nuclear
+- area sem mesas
+area: restaurante universitario
+- area sem mesas
+area: saguao
+- mesa: 17, status: livre
+- mesa: 100, status: ocupada
+- mesa: 101, status: ocupada
+- mesa: 103, status: ocupada
+- mesa: 104, status: ocupada
+- mesa: 105, status: ocupada
+- mesa: 106, status: ocupada
+- mesa: 107, status: ocupada
+- mesa: 108, status: ocupada
+- mesa: 109, status: ocupada
+- mesa: 110, status: ocupada
+- mesa: 111, status: ocupada
+- mesa: 112, status: ocupada
+- mesa: 113, status: ocupada
+- mesa: 114, status: ocupada
+area: sala
+- mesa: 40, status: ocupada
+area: salao
+- mesa: 2, status: ocupada
+- mesa: 23, status: livre
+- mesa: 30, status: livre
+area: salao de eventos
+- mesa: 7, status: livre
+area: terraco
+- mesa: 11, status: livre
+area: varand
+- mesa: 20, status: ocupada
+area: varanda
+- mesa: 1, status: ocupada
+- mesa: 3, status: ocupada
+- mesa: 4, status: livre
+- mesa: 10, status: livre
+- mesa: 19, status: livre
+area: zoologico
+- area sem mesas
+erro >> comando inexistente
+erro >> comando inexistente
+- historico vazio
+=> restaurante fechado

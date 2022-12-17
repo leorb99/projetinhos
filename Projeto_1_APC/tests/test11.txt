@@ -1,0 +1,8 @@
+add 3
+crypto +
+crypto +-+-+-+-
+crypto --++--
+process
+process
+process
+halt

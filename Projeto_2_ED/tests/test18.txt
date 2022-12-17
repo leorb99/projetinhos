@@ -1,0 +1,24 @@
++ atualizar estoque
+e1.csv
++ atualizar estoque
+e2.csv
++ atualizar estoque
+e3.csv
++ atualizar estoque
+e4.csv
++ atualizar estoque
+e5.csv
++ atualizar estoque
+e6.csv
++ atualizar estoque
+e7.csv
++ atualizar estoque
+e8.csv
++ atualizar estoque
+e9.csv
++ atualizar estoque
+e10.csv
++ atualizar estoque
+e1.csv
++ relatorio estoque
++ fechar restaurante

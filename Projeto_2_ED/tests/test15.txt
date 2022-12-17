@@ -1,0 +1,35 @@
++ atualizar mesas
+m1.csv
++ atualizar cardapio
+c1.csv
++ atualizar estoque
+e1.csv
++ fazer pedido
+1, big mac
++ fazer pedido
+1, big tasty
++ fazer pedido
+1, big mac
++ fazer pedido
+1, cheddar mcmelt
++ fazer pedido
+1, macarrao
++ fazer pedido
+2, big mac
++ fazer pedido
+3, big mac
++ fazer pedido
+1, mcflurry de ovo maltine
++ atualizar estoque
+e1.csv
++ fazer pedido
+1, mc chicken
++ fazer pedido
+1, tortinha de maca
++ fazer pedido
+1, big mac
++ fazer pedido
+1, batata frita
++ fazer pedido
+1, batat frita
++ fechar restaurante

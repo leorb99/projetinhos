@@ -1,0 +1,194 @@
+=> restaurante aberto
+alga: 2
+arroz: 2
+batata: 2
+brocolis: 2
+carne: 2
+carne de porco: 2
+cenoura: 2
+curry: 2
+frango empanado: 2
+macarrao: 2
+molho de yakisoba: 2
+repolho: 2
+salmao: 2
+tempeiro de peixe: 2
+alga: 18
+alho poro: 4
+arroz: 104
+batata: 2
+batata baroa: 90
+brocolis: 2
+carne: 2
+carne de porco: 2
+cenoura: 2
+cream cheese: 36
+curry: 2
+frango empanado: 2
+macarrao: 2
+miojo: 10
+molho de yakisoba: 2
+morango: 24
+repolho: 2
+salmao: 4
+salmao frito: 7
+tempeiro de carne suave: 1
+tempeiro de peixe: 2
+item: kare
+- arroz: 1
+- batata: 1
+- carne de porco: 1
+- cenoura: 1
+- curry: 1
+- frango a milanesa: 1
+item: lamen
+- carne de porco: 1
+- macarrao: 1
+- tempeiro de peixe: 1
+item: sushi
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: temaki
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: yakisoba
+- brocolis: 1
+- carne: 1
+- cenoura: 1
+- macarrao: 1
+- molho de yakisoba: 1
+- repolho: 1
+item: hot philadelphia
+- alga: 1
+- arroz: 1
+- salmao frito: 1
+item: kare
+- arroz: 1
+- batata: 1
+- carne de porco: 1
+- cenoura: 1
+- curry: 1
+- frango a milanesa: 1
+item: lamen
+- carne de porco: 1
+- macarrao: 1
+- tempeiro de peixe: 1
+item: miojo turma da monica
+- miojo: 1
+- tempeiro de carne suave: 1
+item: sushi
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: sushi brasileiro
+- alga: 1
+- arroz: 1
+- cream cheese: 1
+- morango: 1
+item: temaki
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: temaki brasileiro
+- alga: 1
+- alho poro: 1
+- arroz: 1
+- batata baroa: 1
+- cream cheese: 1
+- salmao: 1
+item: yakisoba
+- brocolis: 1
+- carne: 1
+- cenoura: 1
+- macarrao: 1
+- molho de yakisoba: 1
+- repolho: 1
+erro >> mesa 102 inexistente
+erro >> mesa 102 inexistente
+erro >> mesa 102 inexistente
+erro >> mesa 102 inexistente
+area: saguao
+- mesa: 100, status: ocupada
+- mesa: 101, status: ocupada
+- mesa: 103, status: ocupada
+- mesa: 104, status: ocupada
+- mesa: 105, status: ocupada
+- mesa: 106, status: ocupada
+- mesa: 107, status: ocupada
+- mesa: 108, status: ocupada
+- mesa: 109, status: ocupada
+- mesa: 110, status: ocupada
+- mesa: 111, status: ocupada
+- mesa: 112, status: ocupada
+- mesa: 113, status: ocupada
+- mesa: 114, status: ocupada
+item: hot philadelphia
+- alga: 1
+- arroz: 1
+- salmao frito: 1
+item: kare
+- arroz: 1
+- batata: 1
+- carne de porco: 1
+- cenoura: 1
+- curry: 1
+- frango a milanesa: 1
+item: lamen
+- carne de porco: 1
+- macarrao: 1
+- tempeiro de peixe: 1
+item: miojo turma da monica
+- miojo: 1
+- tempeiro de carne suave: 1
+item: sushi
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: sushi brasileiro
+- alga: 1
+- arroz: 1
+- cream cheese: 1
+- morango: 1
+item: temaki
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: temaki brasileiro
+- alga: 1
+- alho poro: 1
+- arroz: 1
+- batata baroa: 1
+- cream cheese: 1
+- salmao: 1
+item: yakisoba
+- brocolis: 1
+- carne: 1
+- cenoura: 1
+- macarrao: 1
+- molho de yakisoba: 1
+- repolho: 1
+alga: 18
+alho poro: 4
+arroz: 104
+batata: 2
+batata baroa: 90
+brocolis: 2
+carne: 2
+carne de porco: 2
+cenoura: 2
+cream cheese: 36
+curry: 2
+frango empanado: 2
+macarrao: 2
+miojo: 10
+molho de yakisoba: 2
+morango: 24
+repolho: 2
+salmao: 4
+salmao frito: 7
+tempeiro de carne suave: 1
+tempeiro de peixe: 2
+- historico vazio
+=> restaurante fechado

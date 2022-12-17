@@ -1,0 +1,13 @@
+add 2
+crypto +-+-
+merge [1, 3] [6, 10] [3, 4] [5, 8]
+add 1
+deYodafy faça não ou faça.
+process
+add 2
+crypto -+-
+merge [1, 7] [2, 5] [5, 10] [8, 9]
+process
+process
+process
+halt

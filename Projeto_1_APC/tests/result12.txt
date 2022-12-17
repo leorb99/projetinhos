@@ -1,0 +1,3 @@
+[-5, 5] [10, 100] 
+[1, 5] 
+1 processo(s) e 1 comando(s) órfão(s).

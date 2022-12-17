@@ -1,0 +1,26 @@
++ atualizar mesas
+m4.csv
++ atualizar cardapio
+c7.csv
++ atualizar estoque
+e7.csv
++ relatorio estoque
++ atualizar estoque
+e8.csv
++ relatorio estoque
++ relatorio cardapio
++ atualizar cardapio
+c8.csv
++ relatorio cardapio
++ fazer pedido
+102, sushi
++ fazer pedido
+102, temaki
++ fazer pedido
+102, sushi brasileiro
++ fazer pedido
+102, temaki brasileiro
++ relatorio mesas
++ relatorio cardapio
++ relatorio estoque
++ fechar restaurante

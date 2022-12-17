@@ -1,0 +1,8 @@
+add 3
+crypto +--+
+deYodafy nossa bossa?
+merge [1, 2] [2, 2] [2, 3] [3, 4]
+process
+process
+process
+halt

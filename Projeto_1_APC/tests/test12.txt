@@ -1,0 +1,8 @@
+add 1
+merge [-5, 5] [13, 42] [10, 100]
+process
+add 2
+merge [1, 2] [2, 3] [3, 4] [4, 5]
+merge [4, 5] [2, 3] [1, 2] [3, 4]
+process
+halt

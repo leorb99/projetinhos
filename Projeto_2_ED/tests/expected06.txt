@@ -1,0 +1,34 @@
+=> restaurante aberto
+- cardapio vazio
+item: agua
+- agua: 1
+item: feijoada
+- arroz: 1
+- farofa de couve: 1
+- feijao: 1
+- laranja: 1
+- linguica: 1
+- molho de pimenta: 1
+item: sobremesa
+- abacaxi: 2
+item: suco
+- tang de limao: 1
+item: agua
+- agua: 1
+item: feijoada
+- arroz: 1
+- farofa de couve: 1
+- feijao: 1
+- laranja: 1
+- linguica: 1
+- molho de pimenta: 1
+item: macarrao
+- macarrao: 1
+- molho a bolonhesa: 1
+- queijo mussarela: 1
+item: sobremesa
+- abacaxi: 2
+item: suco
+- tang de caju: 1
+- historico vazio
+=> restaurante fechado

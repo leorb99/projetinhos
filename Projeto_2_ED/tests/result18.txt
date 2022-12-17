@@ -1,0 +1,113 @@
+=> restaurante aberto
+acucar refinado: 22
+alface: 20
+alga: 18
+alho: 3
+alho poro: 4
+arroz: 125
+assafrao: 30
+azeite: 3
+azeitona: 8
+bacon: 3
+banana: 2
+batata: 1002
+batata baroa: 90
+batata frita: 23
+batata palha: 2
+brocolis: 2
+cachaca: 1
+calabresa: 34
+calda de chocolate: 21
+camarao: 10
+canela: 111
+carne: 30
+carne de porco: 3
+carne de porco defumada: 20
+carne moida: 3
+cebola: 31
+cebola caramelizada: 20
+cenoura: 3
+champignon: 1
+chocolate: 3
+couve: 3
+cream cheese: 36
+creme de leite: 6
+curry: 2
+doce de leite: 55
+essencia de baunilha: 1
+farinha de trigo: 1
+farofa: 2
+feijao: 2
+fermento: 1
+frango empanado: 22
+goiabada: 2
+gotas de chocolate: 1
+hamburguer: 20
+joelho de porco: 1
+ketchup: 5
+laranja: 4
+leite: 3
+linguica: 1
+louro: 2
+lula: 13
+maca: 102
+maca caramelizada: 20
+macarrao: 9
+maionese: 20
+mandioca: 4
+manjericao: 11
+manteiga: 1
+manteiga de amendoim: 1
+manteiga de garrafa: 4
+maoinese: 42
+massa de churros: 34
+massa de esfiha: 1
+massa de pastel: 7
+massa de pizza: 8
+massa folhada: 20
+mexilhao: 50
+miojo: 10
+molho barbecue: 20
+molho de tomate: 3
+molho de yakisoba: 2
+molho especial: 20
+molho tasty: 20
+morango: 24
+mostarda: 1
+nata: 6
+nozes: 3
+nutella: 9
+oleo: 3
+olho de gato: 20
+oregano: 8
+ovo: 16
+ovomaltine: 20
+pao: 4
+pao com gergelim: 20
+pepperoni: 8
+picles: 20
+pimenta: 5
+pimenta-do-reino: 3
+pimentao: 8
+polvo: 40
+porco empanado: 97
+portobello: 1
+queijo: 44
+queijo cheddar: 20
+queijo coalho: 3
+queijo parmesao: 3
+repolho: 30002
+salada: 3
+salmao: 4
+salmao frito: 7
+salsa: 16
+semolina: 5
+shimeji: 1
+shitake: 1
+sorvete de baunilha: 20
+tempeiro de carne suave: 1
+tempeiro de peixe: 2
+tomate: 25
+vinho branco: 3
+- historico vazio
+=> restaurante fechado

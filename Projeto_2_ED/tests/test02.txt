@@ -1,0 +1,18 @@
++ atualizar mesas
+m2.csv
++ atualizar cardapio
+c2.csv
++ atualizar estoque
+e2.csv
++ relatorio pedidos
++ fazer pedido
+5, macarrao
++ fazer pedido
+4, macarrao
++ fazer pedido
+3, macarrao
++ fazer pedido
+3, feijoada
++ relatorio pedidos
++ quero fazer mais um pedido
++ fechar restaurante

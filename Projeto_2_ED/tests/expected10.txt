@@ -1,0 +1,4 @@
+=> restaurante aberto
+erro >> item carne de sol nao existe no cardapio
+- historico vazio
+=> restaurante fechado

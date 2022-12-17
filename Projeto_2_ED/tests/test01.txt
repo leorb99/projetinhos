@@ -1,0 +1,5 @@
++ relatorio pedidos
++ relatorio mesas
++ relatorio cardapio
++ relatorio estoque
++ fechar restaurante

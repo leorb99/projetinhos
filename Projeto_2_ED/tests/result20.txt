@@ -1,0 +1,310 @@
+=> restaurante aberto
+area: jardim
+- mesa: 13, status: livre
+area: reator nuclear
+- mesa: 5, status: livre
+area: restaurante universitario
+- mesa: 2, status: livre
+area: saguao
+- mesa: 17, status: livre
+area: salao
+- mesa: 23, status: livre
+area: salao de eventos
+- mesa: 7, status: livre
+area: terraco
+- mesa: 11, status: livre
+area: varanda
+- mesa: 19, status: livre
+area: zoologico
+- mesa: 3, status: livre
+item: esfiha de calabresa
+- calabresa: 1
+- massa de esfiha: 1
+item: esfiha de carne
+- carne: 1
+- cebola: 1
+- massa de esfiha: 1
+- semolina: 1
+- tomate: 1
+item: esfiha de nutella
+- massa de esfiha: 1
+- nutella: 1
+item: esfiha de queijo
+- massa de esfiha: 1
+- queijo: 1
+- salsa: 1
+item: mini churros
+- canela: 1
+- doce de leite: 1
+- massa de churros: 1
+item: pastel de belem
+- massa de pastel: 1
+- nata: 1
+- ovo: 1
+calabresa: 21
+canela: 89
+carne: 1
+cebola: 3
+doce de leite: 55
+massa de churros: 34
+massa de esfiha: 1
+massa de pastel: 7
+nata: 6
+nutella: 9
+ovo: 4
+queijo: 8
+salsa: 13
+semolina: 5
+tomate: 2
+- nenhum pedido foi realizado
+area: jardim
+- mesa: 7, status: ocupada
+area: reator nuclear
+- mesa: 17, status: ocupada
+area: restaurante universitario
+- mesa: 23, status: ocupada
+area: saguao
+- mesa: 5, status: ocupada
+area: salao
+- mesa: 2, status: ocupada
+area: salao de eventos
+- mesa: 13, status: ocupada
+area: terraco
+- mesa: 11, status: ocupada
+area: varanda
+- mesa: 3, status: ocupada
+area: zoologico
+- mesa: 19, status: ocupada
+calabresa: 42
+canela: 178
+carne: 2
+cebola: 6
+doce de leite: 110
+massa de churros: 68
+massa de esfiha: 2
+massa de pastel: 14
+nata: 12
+nutella: 18
+ovo: 8
+queijo: 16
+salsa: 26
+semolina: 10
+tomate: 4
+calabresa: 63
+canela: 267
+carne: 3
+cebola: 9
+doce de leite: 165
+massa de churros: 102
+massa de esfiha: 3
+massa de pastel: 21
+nata: 18
+nutella: 27
+ovo: 12
+queijo: 24
+salsa: 39
+semolina: 15
+tomate: 6
+calabresa: 84
+canela: 356
+carne: 4
+cebola: 12
+doce de leite: 220
+massa de churros: 136
+massa de esfiha: 4
+massa de pastel: 28
+nata: 24
+nutella: 36
+ovo: 16
+queijo: 32
+salsa: 52
+semolina: 20
+tomate: 8
+calabresa: 105
+canela: 445
+carne: 5
+cebola: 15
+doce de leite: 275
+massa de churros: 170
+massa de esfiha: 5
+massa de pastel: 35
+nata: 30
+nutella: 45
+ovo: 20
+queijo: 40
+salsa: 65
+semolina: 25
+tomate: 10
+calabresa: 126
+canela: 534
+carne: 6
+cebola: 18
+doce de leite: 330
+massa de churros: 204
+massa de esfiha: 6
+massa de pastel: 42
+nata: 36
+nutella: 54
+ovo: 24
+queijo: 48
+salsa: 78
+semolina: 30
+tomate: 12
+sucesso >> pedido realizado: item esfiha de carne para mesa 2
+sucesso >> pedido realizado: item esfiha de carne para mesa 2
+sucesso >> pedido realizado: item esfiha de carne para mesa 2
+sucesso >> pedido realizado: item esfiha de carne para mesa 2
+sucesso >> pedido realizado: item esfiha de carne para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+sucesso >> pedido realizado: item mini churros para mesa 2
+mesa: 2
+- esfiha de carne
+- esfiha de carne
+- esfiha de carne
+- esfiha de carne
+- esfiha de carne
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+- mini churros
+calabresa: 126
+canela: 500
+carne: 1
+cebola: 13
+doce de leite: 296
+massa de churros: 170
+massa de esfiha: 1
+massa de pastel: 42
+nata: 36
+nutella: 54
+ovo: 24
+queijo: 48
+salsa: 78
+semolina: 25
+tomate: 7
+item: esfiha de calabresa
+- calabresa: 1
+- massa de esfiha: 1
+item: esfiha de carne
+- carne: 1
+- cebola: 1
+- massa de esfiha: 1
+- semolina: 1
+- tomate: 1
+item: esfiha de nutella
+- massa de esfiha: 1
+- nutella: 1
+item: esfiha de queijo
+- massa de esfiha: 1
+- queijo: 1
+- salsa: 1
+item: mini churros
+- canela: 1
+- doce de leite: 1
+- massa de churros: 1
+item: pastel de belem
+- massa de pastel: 1
+- nata: 1
+- ovo: 1
+1. mesa 2 pediu esfiha de carne
+2. mesa 2 pediu esfiha de carne
+3. mesa 2 pediu esfiha de carne
+4. mesa 2 pediu esfiha de carne
+5. mesa 2 pediu esfiha de carne
+6. mesa 2 pediu mini churros
+7. mesa 2 pediu mini churros
+8. mesa 2 pediu mini churros
+9. mesa 2 pediu mini churros
+10. mesa 2 pediu mini churros
+11. mesa 2 pediu mini churros
+12. mesa 2 pediu mini churros
+13. mesa 2 pediu mini churros
+14. mesa 2 pediu mini churros
+15. mesa 2 pediu mini churros
+16. mesa 2 pediu mini churros
+17. mesa 2 pediu mini churros
+18. mesa 2 pediu mini churros
+19. mesa 2 pediu mini churros
+20. mesa 2 pediu mini churros
+21. mesa 2 pediu mini churros
+22. mesa 2 pediu mini churros
+23. mesa 2 pediu mini churros
+24. mesa 2 pediu mini churros
+25. mesa 2 pediu mini churros
+26. mesa 2 pediu mini churros
+27. mesa 2 pediu mini churros
+28. mesa 2 pediu mini churros
+29. mesa 2 pediu mini churros
+30. mesa 2 pediu mini churros
+31. mesa 2 pediu mini churros
+32. mesa 2 pediu mini churros
+33. mesa 2 pediu mini churros
+34. mesa 2 pediu mini churros
+35. mesa 2 pediu mini churros
+36. mesa 2 pediu mini churros
+37. mesa 2 pediu mini churros
+38. mesa 2 pediu mini churros
+39. mesa 2 pediu mini churros
+=> restaurante fechado

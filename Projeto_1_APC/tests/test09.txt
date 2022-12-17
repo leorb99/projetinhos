@@ -1,0 +1,10 @@
+add 4
+deYodafy usar a Força você deve!
+deYodafy usar a_Força você_deve!
+deYodafy usar_a_Força você_deve!
+deYodafy usar_a_Força_você_deve!
+process
+process
+process
+process
+halt

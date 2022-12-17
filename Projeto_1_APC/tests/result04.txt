@@ -1,0 +1,5 @@
+13254
+faça ou não faça.
+[1, 4] [5, 10] 
+2143
+1 processo(s) e 1 comando(s) órfão(s).

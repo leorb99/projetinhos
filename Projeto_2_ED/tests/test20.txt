@@ -1,0 +1,110 @@
++ atualizar mesas
+m6.csv
++ atualizar cardapio
+c6.csv
++ atualizar estoque
+e6.csv
++ relatorio mesas
++ relatorio cardapio
++ relatorio estoque
++ relatorio pedidos
++ atualizar mesas
+m5.csv
++ relatorio mesas
++ atualizar estoque
+e6.csv
++ relatorio estoque
++ atualizar estoque
+e6.csv
++ relatorio estoque
++ atualizar estoque
+e6.csv
++ relatorio estoque
++ atualizar estoque
+e6.csv
++ relatorio estoque
++ atualizar estoque
+e6.csv
++ relatorio estoque
++ fazer pedido
+2, esfiha de carne
++ fazer pedido
+2, esfiha de carne
++ fazer pedido
+2, esfiha de carne
++ fazer pedido
+2, esfiha de carne
++ fazer pedido
+2, esfiha de carne
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ fazer pedido
+2, mini churros
++ relatorio pedidos
++ relatorio estoque
++ relatorio cardapio
++ fechar restaurante

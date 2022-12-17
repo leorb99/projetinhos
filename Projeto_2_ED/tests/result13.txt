@@ -1,0 +1,54 @@
+=> restaurante aberto
+item: macarrao
+- macarrao: 1
+- molho a bolonhesa: 1
+- queijo mussarela: 1
+item: suco
+- tang de caju: 1
+macarrao: 1
+molho a bolonhesa: 1
+queijo mussarela: 1
+tang de caju: 1
+sucesso >> pedido realizado: item macarrao para mesa 3
+mesa: 3
+- macarrao
+tang de caju: 1
+sucesso >> pedido realizado: item suco para mesa 4
+mesa: 3
+- macarrao
+mesa: 4
+- suco
+- estoque vazio
+erro >> ingredientes insuficientes para produzir o item macarrao
+mesa: 3
+- macarrao
+mesa: 4
+- suco
+- estoque vazio
+macarrao: 1
+molho a bolonhesa: 1
+queijo mussarela: 1
+tang de caju: 1
+sucesso >> pedido realizado: item macarrao para mesa 6
+mesa: 3
+- macarrao
+mesa: 4
+- suco
+mesa: 6
+- macarrao
+tang de caju: 1
+sucesso >> pedido realizado: item suco para mesa 2
+mesa: 2
+- suco
+mesa: 3
+- macarrao
+mesa: 4
+- suco
+mesa: 6
+- macarrao
+- estoque vazio
+1. mesa 3 pediu macarrao
+2. mesa 4 pediu suco
+3. mesa 6 pediu macarrao
+4. mesa 2 pediu suco
+=> restaurante fechado

@@ -1,0 +1,25 @@
+=> restaurante aberto
+- estoque vazio
+macarrao: 1
+molho a bolonhesa: 1
+queijo mussarela: 1
+tang de caju: 1
+macarrao: 2
+molho a bolonhesa: 2
+queijo mussarela: 2
+tang de caju: 2
+abacaxi: 10
+agua: 10
+arroz: 10
+farofa de couve: 10
+feijao: 10
+laranja: 10
+linguica: 10
+macarrao: 2
+molho a bolonhesa: 2
+molho de pimenta: 10
+queijo mussarela: 2
+tang de caju: 2
+tang de limao: 10
+- historico vazio
+=> restaurante fechado

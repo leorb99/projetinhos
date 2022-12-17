@@ -1,0 +1,40 @@
+=> restaurante aberto
+area: jardim
+- mesa: 7, status: ocupada
+area: reator nuclear
+- mesa: 17, status: ocupada
+area: restaurante universitario
+- mesa: 23, status: ocupada
+area: saguao
+- mesa: 5, status: ocupada
+area: salao
+- mesa: 2, status: ocupada
+area: salao de eventos
+- mesa: 13, status: ocupada
+area: terraco
+- mesa: 11, status: ocupada
+area: varanda
+- mesa: 3, status: ocupada
+area: zoologico
+- mesa: 19, status: ocupada
+area: jardim
+- mesa: 13, status: livre
+area: reator nuclear
+- mesa: 5, status: livre
+area: restaurante universitario
+- mesa: 2, status: livre
+area: saguao
+- mesa: 17, status: livre
+area: salao
+- mesa: 23, status: livre
+area: salao de eventos
+- mesa: 7, status: livre
+area: terraco
+- mesa: 11, status: livre
+area: varanda
+- mesa: 19, status: livre
+area: zoologico
+- mesa: 3, status: livre
+erro >> comando inexistente
+- historico vazio
+=> restaurante fechado

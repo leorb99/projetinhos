@@ -1,0 +1,282 @@
+=> restaurante aberto
+item: baiao de dois
+- arroz: 1
+- calabresa: 1
+- feijao: 1
+- linguica: 1
+- manteiga de garrafa: 1
+- queijo coalho: 1
+- resto de churrasco: 1
+item: batata frita
+- batata frita: 1
+- sal: 1
+item: big mac
+- alface: 1
+- cebola: 1
+- hamburguer: 2
+- molho especial: 1
+- pao com gergelim: 1
+- picles: 1
+- queijo: 1
+item: big tasty
+- alface: 1
+- cebola: 1
+- hamburguer: 1
+- molho tasty: 1
+- pao com gergelim: 1
+item: bolo de cenoura com cobertura de chocolate
+- cenoura: 1
+- chocolate: 1
+- farinha de trigo: 1
+- fermento: 1
+item: brownie
+- chocolate: 1
+- essencia de baunilha: 1
+- farinha de trigo: 1
+- manteiga: 1
+- ovo: 1
+item: carbonara
+- bacon: 1
+- macarrao: 1
+- ovo: 1
+- queijo parmesao: 1
+- vinho branco: 1
+item: cheddar mcmelt
+- carne: 1
+- cebola caramelizada: 1
+- pao com gergelim: 1
+- queijo cheddar: 1
+item: cookie
+- essencia de baunilha: 1
+- farinha de trigo: 1
+- fermento: 1
+- gotas de chocolate: 1
+- manteiga de amendoim: 1
+item: eisbein
+- joelho de porco: 1
+item: esfiha de calabresa
+- calabresa: 1
+- massa de esfiha: 1
+item: esfiha de carne
+- carne: 1
+- cebola: 1
+- massa de esfiha: 1
+- semolina: 1
+- tomate: 1
+item: esfiha de nutella
+- massa de esfiha: 1
+- nutella: 1
+item: esfiha de queijo
+- massa de esfiha: 1
+- queijo: 1
+- salsa: 1
+item: estrogonofe
+- arroz: 1
+- batata palha: 1
+- carne: 1
+- creme de leite: 1
+- ketchup: 1
+- mostarda: 1
+item: feijoada
+- arroz: 1
+- cachaca: 1
+- carne de porco: 1
+- couve: 1
+- farofa: 1
+- feijao: 1
+- laranja: 1
+- louro: 1
+- pimenta: 1
+item: hot philadelphia
+- alga: 1
+- arroz: 1
+- salmao frito: 1
+item: kare
+- arroz: 1
+- batata: 1
+- carne de porco: 1
+- cenoura: 1
+- curry: 1
+- frango a milanesa: 1
+item: kartoffelsalat
+- batata: 1
+- maca: 1
+- maionese: 1
+item: kassler
+- carne de porco defumada: 1
+item: lamen
+- carne de porco: 1
+- macarrao: 1
+- tempeiro de peixe: 1
+item: macarrao a bolonhesa
+- carne moida: 1
+- macarrao: 1
+- molho de tomate: 1
+item: macarrao alho e oleo
+- alho: 1
+- macarrao: 1
+- oleo: 1
+item: macarrao ao molho branco
+- alho: 1
+- bacon: 1
+- creme de leite: 1
+- leite: 1
+- macarrao: 1
+- sal: 1
+item: macarrao ao molho pesto
+- azeite: 1
+- macarrao: 1
+- manjericao: 1
+- nozes: 1
+- pimenta-do-reino: 1
+- queijo: 1
+- salsa: 1
+item: macarrao ao mulho sugo
+- macarrao: 1
+- molho de tomate: 1
+item: mc chicken
+- alface: 1
+- frango empanado: 1
+- maionese: 1
+- pao com gergelim: 1
+item: mcflurry de olho de gato
+- calda de chocolate: 1
+- olho de gato: 1
+- sorvete de baunilha: 1
+item: mcflurry de ovomaltine
+- calda de chocolate: 1
+- ovomaltine: 1
+- sorvete de baunilha: 1
+item: mini churros
+- canela: 1
+- doce de leite: 1
+- massa de churros: 1
+item: miojo turma da monica
+- miojo: 1
+- tempeiro de carne suave: 1
+item: mistura
+- arroz: 1
+- carne: 1
+- feijao: 1
+- macarrao: 1
+- salada: 1
+item: nugget
+- frango empanado: 1
+- molho barbecue: 1
+item: paella
+- arroz: 1
+- assafrao: 1
+- camarao: 1
+- lula: 1
+- mexilhao: 1
+- polvo: 1
+item: pastel de belem
+- massa de pastel: 1
+- nata: 1
+- ovo: 1
+item: pizza de banana com canela
+- acucar refinado: 1
+- banana: 1
+- canela: 1
+- massa de pizza: 1
+- queijo: 1
+item: pizza de banana com chocolate
+- banana: 1
+- chocolate amargo: 1
+- massa de pizza: 1
+- queijo: 1
+item: pizza de calabresa
+- calabresa: 1
+- cebola: 1
+- massa de pizza: 1
+- queijo: 1
+- tomate: 1
+item: pizza de pepperoni
+- massa de pizza: 1
+- pepperoni: 1
+- queijo: 1
+- tomate: 1
+item: pizza fungi
+- champignon: 1
+- massa de pizza: 1
+- portobello: 1
+- queijo: 1
+- shimeji: 1
+- shitake: 1
+item: pizza marguerita
+- manjericao: 1
+- massa de pizza: 1
+- queijo: 1
+- tomate: 1
+item: pizza napolitana
+- manjericao: 1
+- massa de pizza: 1
+- queijo: 1
+- tomate: 1
+item: pizza portuguesa
+- azeitona: 1
+- calabresa: 1
+- cebola: 1
+- manjericao: 1
+- massa de pizza: 1
+- oregano: 1
+- ovo: 1
+- pimentao: 1
+- queijo: 1
+- tomate: 1
+item: pizza romeu e julieta
+- goiabada: 1
+- massa de pizza: 1
+- queijo: 1
+item: prato feito
+- arroz: 1
+- batata frita: 1
+- carne: 1
+- farofa: 1
+- feijao: 1
+- macarrao: 1
+- mandioca: 1
+- salada: 1
+item: sauerkraut
+- repolho: 1
+item: schnitzel
+- porco empanado: 1
+item: sushi
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: sushi brasileiro
+- alga: 1
+- arroz: 1
+- cream cheese: 1
+- morango: 1
+item: tapa
+- azeite: 1
+- pao: 1
+- queijo: 1
+- tomate: 1
+item: temaki
+- alga: 1
+- arroz: 1
+- salmao: 1
+item: temaki brasileiro
+- alga: 1
+- alho poro: 1
+- arroz: 1
+- batata baroa: 1
+- cream cheese: 1
+- salmao: 1
+item: tortinha de maca
+- acucar refinado: 1
+- canela: 1
+- maca caramelizada: 1
+- massa folhada: 1
+item: yakisoba
+- brocolis: 1
+- carne: 1
+- cenoura: 1
+- macarrao: 1
+- molho de yakisoba: 1
+- repolho: 1
+- historico vazio
+=> restaurante fechado

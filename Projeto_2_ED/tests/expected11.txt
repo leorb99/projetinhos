@@ -1,0 +1,4 @@
+=> restaurante aberto
+erro >> ingredientes insuficientes para produzir o item feijoada
+- historico vazio
+=> restaurante fechado

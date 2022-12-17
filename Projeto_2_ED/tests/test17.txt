@@ -1,0 +1,24 @@
++ atualizar cardapio
+c1.csv
++ atualizar cardapio
+c2.csv
++ atualizar cardapio
+c3.csv
++ atualizar cardapio
+c4.csv
++ atualizar cardapio
+c5.csv
++ atualizar cardapio
+c6.csv
++ atualizar cardapio
+c7.csv
++ atualizar cardapio
+c8.csv
++ atualizar cardapio
+c9.csv
++ atualizar cardapio
+c10.csv
++ atualizar cardapio
+c1.csv
++ relatorio cardapio
++ fechar restaurante

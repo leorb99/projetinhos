@@ -1,0 +1,5 @@
++ atualizar mesas
+mesas-ru.csv
++ fazer pedido
+51, carne de sol
++ fechar restaurante
