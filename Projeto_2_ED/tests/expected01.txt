@@ -1,7 +1,2 @@
-=> restaurante aberto
-- nenhum pedido foi realizado
-- restaurante sem mesas
-- cardapio vazio
-- estoque vazio
-- historico vazio
-=> restaurante fechado
+4321
+0 processo(s) e 0 comando(s) órfão(s).

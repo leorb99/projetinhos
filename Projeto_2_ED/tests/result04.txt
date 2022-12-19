@@ -1,32 +1,5 @@
-=> restaurante aberto
-calabresa: 21
-canela: 89
-carne: 1
-cebola: 3
-doce de leite: 55
-massa de churros: 34
-massa de esfiha: 1
-massa de pastel: 7
-nata: 6
-nutella: 9
-ovo: 4
-queijo: 8
-salsa: 13
-semolina: 5
-tomate: 2
-sucesso >> pedido realizado: item esfiha de carne para mesa 1
-calabresa: 21
-canela: 89
-cebola: 2
-doce de leite: 55
-massa de churros: 34
-massa de pastel: 7
-nata: 6
-nutella: 9
-ovo: 4
-queijo: 8
-salsa: 13
-semolina: 4
-tomate: 1
-1. mesa 1 pediu esfiha de carne
-=> restaurante fechado
+13254
+faça ou não faça.
+[1, 4] [5, 10] 
+2143
+1 processo(s) e 1 comando(s) órfão(s).

@@ -1,11 +1,5 @@
-+ relatorio estoque
-+ atualizar estoque
-estoque-macarrao.csv
-+ relatorio estoque
-+ atualizar estoque
-estoque-macarrao.csv
-+ relatorio estoque
-+ atualizar estoque
-estoque-feijoada.csv
-+ relatorio estoque
-+ fechar restaurante
+add 1
+merge [1, 7] [2, 5] [5, 10] [8, 9]
+add 1
+merge [1, 7] [2, 5] [5, 10] [8, 9]
+halt

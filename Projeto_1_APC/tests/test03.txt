@@ -1,7 +1,4 @@
-add 1
-deYodafy contra-atacar deve Império!
-add 1
-merge [1, 3] [6, 10] [3, 4] [5, 8]
-process
-process
-halt
++ atualizar mesas
+m7.csv
++ relatorio mesas
++ fechar restaurante

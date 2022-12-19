@@ -1,5 +1,4 @@
-+ relatorio pedidos
-+ relatorio mesas
-+ relatorio cardapio
-+ relatorio estoque
-+ fechar restaurante
+add 1
+crypto ---
+process
+halt

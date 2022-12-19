@@ -1,11 +1,3 @@
-=> restaurante aberto
-- nenhum pedido foi realizado
-erro >> mesa 5 inexistente
-erro >> mesa 4 desocupada
-erro >> item macarrao nao existe no cardapio
-sucesso >> pedido realizado: item feijoada para mesa 3
-mesa: 3
-- feijoada
-erro >> comando inexistente
-1. mesa 3 pediu feijoada
-=> restaurante fechado
+2143
+[1, 4] [5, 10]
+0 processo(s) e 0 comando(s) órfão(s).

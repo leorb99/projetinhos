@@ -1,3 +1,4 @@
-tenha cuidado lado_sombrio_da_Força.
-Hmmm?
-1 processo(s) e 1 comando(s) órfão(s).
+=> restaurante aberto
+erro >> item carne de sol nao existe no cardapio
+- historico vazio
+=> restaurante fechado

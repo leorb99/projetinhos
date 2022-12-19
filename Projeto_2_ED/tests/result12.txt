@@ -1,15 +1,3 @@
-=> restaurante aberto
-sucesso >> pedido realizado: item feijoada para mesa 50
-mesa: 50
-- feijoada
-abacaxi: 10
-agua: 10
-arroz: 9
-farofa de couve: 9
-feijao: 9
-laranja: 9
-linguica: 9
-molho de pimenta: 9
-tang de limao: 10
-1. mesa 50 pediu feijoada
-=> restaurante fechado
+[-5, 5] [10, 100] 
+[1, 5] 
+1 processo(s) e 1 comando(s) órfão(s).

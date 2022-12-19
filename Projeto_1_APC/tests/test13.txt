@@ -1,8 +1,32 @@
-add 3
-crypto +--+
-deYodafy nossa bossa?
-merge [1, 2] [2, 2] [2, 3] [3, 4]
-process
-process
-process
-halt
++ atualizar mesas
+mesas-amarelinho.csv
++ atualizar cardapio
+cardapio-macarrao.csv
++ relatorio cardapio
++ atualizar estoque
+estoque-macarrao.csv
++ relatorio estoque
++ fazer pedido
+3, macarrao
++ relatorio pedidos
++ relatorio estoque
++ fazer pedido
+4, suco
++ relatorio pedidos
++ relatorio estoque
++ fazer pedido
+6, macarrao
++ relatorio pedidos
++ relatorio estoque
++ atualizar estoque
+estoque-macarrao.csv
++ relatorio estoque
++ fazer pedido
+6, macarrao
++ relatorio pedidos
++ relatorio estoque
++ fazer pedido
+2, suco
++ relatorio pedidos
++ relatorio estoque
++ fechar restaurante

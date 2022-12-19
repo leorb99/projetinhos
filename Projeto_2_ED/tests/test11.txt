@@ -1,7 +1,8 @@
-+ atualizar mesas
-mesas-ru.csv
-+ atualizar cardapio
-cardapio-feijoada.csv
-+ fazer pedido
-50, feijoada
-+ fechar restaurante
+add 3
+crypto +
+crypto +-+-+-+-
+crypto --++--
+process
+process
+process
+halt

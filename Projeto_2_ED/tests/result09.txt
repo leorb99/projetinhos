@@ -1,4 +1,5 @@
-=> restaurante aberto
-erro >> mesa 51 desocupada
-- historico vazio
-=> restaurante fechado
+deve você Força a usar!
+você_deve a_Força usar!
+você_deve usar_a_Força!
+usar_a_Força_você_deve!
+0 processo(s) e 0 comando(s) órfão(s).
